@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ethudaetu.chadcollins.com/sitemap.xml
